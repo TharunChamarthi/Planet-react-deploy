@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Planet-react-deploy/static/css/main.62957887.chunk.css",
+    "main.js": "/Planet-react-deploy/static/js/main.390f9f11.chunk.js",
+    "main.js.map": "/Planet-react-deploy/static/js/main.390f9f11.chunk.js.map",
+    "runtime-main.js": "/Planet-react-deploy/static/js/runtime-main.3d0e0320.js",
+    "runtime-main.js.map": "/Planet-react-deploy/static/js/runtime-main.3d0e0320.js.map",
+    "static/css/2.27175f2b.chunk.css": "/Planet-react-deploy/static/css/2.27175f2b.chunk.css",
+    "static/js/2.4e9eb482.chunk.js": "/Planet-react-deploy/static/js/2.4e9eb482.chunk.js",
+    "static/js/2.4e9eb482.chunk.js.map": "/Planet-react-deploy/static/js/2.4e9eb482.chunk.js.map",
+    "index.html": "/Planet-react-deploy/index.html",
+    "static/css/2.27175f2b.chunk.css.map": "/Planet-react-deploy/static/css/2.27175f2b.chunk.css.map",
+    "static/css/main.62957887.chunk.css.map": "/Planet-react-deploy/static/css/main.62957887.chunk.css.map",
+    "static/js/2.4e9eb482.chunk.js.LICENSE.txt": "/Planet-react-deploy/static/js/2.4e9eb482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d0e0320.js",
+    "static/css/2.27175f2b.chunk.css",
+    "static/js/2.4e9eb482.chunk.js",
+    "static/css/main.62957887.chunk.css",
+    "static/js/main.390f9f11.chunk.js"
+  ]
+}
